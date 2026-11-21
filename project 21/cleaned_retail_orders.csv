@@ -1,0 +1,501 @@
+Order_ID,Customer_ID,Order_Date,Product,Category,Quantity,Unit_Price,Payment_Method,Year,Month,Month_Name,Weekday,Order_Value,Value_Band
+ORD1000,CUST023,2025-10-23,Bluetooth Speaker,Electronics,1.0,2499.0,Credit Card,2025,10,October,Thursday,2499.0,High
+ORD1001,CUST131,2025-09-26,Gel Pen Set,Stationery,1.0,149.0,Credit Card,2025,9,September,Friday,149.0,Low
+ORD1002,CUST193,2025-07-23,Notebook Pack,Stationery,1.0,249.0,Credit Card,2025,7,July,Wednesday,249.0,Low
+ORD1003,CUST174,2025-11-20,Hoodie,Clothing,2.0,1299.0,UPI,2025,11,November,Thursday,2598.0,High
+ORD1004,CUST055,2025-02-16,Hoodie,Clothing,2.0,1299.0,Credit Card,2025,2,February,Sunday,2598.0,High
+ORD1005,CUST091,2025-12-03,Water Bottle,Home,1.0,399.0,Cash on Delivery,2025,12,December,Wednesday,399.0,Low
+ORD1006,CUST107,2025-11-07,Bluetooth Speaker,Electronics,1.0,2499.0,UPI,2025,11,November,Friday,2499.0,High
+ORD1007,CUST050,2025-07-03,Notebook Pack,Stationery,4.0,249.0,UPI,2025,7,July,Thursday,996.0,Medium
+ORD1008,CUST054,2025-09-25,USB-C Cable,Electronics,17.0,299.0,UPI,2025,9,September,Thursday,5083.0,High
+ORD1009,CUST048,2025-07-09,Bluetooth Speaker,Electronics,2.0,2499.0,Cash on Delivery,2025,7,July,Wednesday,4998.0,High
+ORD1010,CUST199,2025-04-09,Running Shoes,Footwear,3.0,2999.0,Credit Card,2025,4,April,Wednesday,8997.0,High
+ORD1011,CUST150,2025-10-19,Coffee Mug,Home,1.0,249.0,Debit Card,2025,10,October,Sunday,249.0,Low
+ORD1012,CUST169,2025-03-31,Gel Pen Set,Stationery,1.0,149.0,Debit Card,2025,3,March,Monday,149.0,Low
+ORD1013,CUST164,2025-04-25,Gel Pen Set,Stationery,1.0,149.0,Cash on Delivery,2025,4,April,Friday,149.0,Low
+ORD1014,CUST192,2025-07-09,Gel Pen Set,Stationery,4.0,149.0,UPI,2025,7,July,Wednesday,596.0,Low
+ORD1015,CUST022,2025-11-02,Desk Lamp,Home,2.0,899.0,UPI,2025,11,November,Sunday,1798.0,Medium
+ORD1016,CUST177,2025-05-21,Running Shoes,Footwear,1.0,2999.0,Credit Card,2025,5,May,Wednesday,2999.0,High
+ORD1017,CUST014,2025-06-30,Bluetooth Speaker,Electronics,1.0,2499.0,Cash on Delivery,2025,6,June,Monday,2499.0,High
+ORD1018,CUST096,2025-01-16,Desk Lamp,Home,1.0,899.0,Debit Card,2025,1,January,Thursday,899.0,Medium
+ORD1019,CUST119,2025-02-12,Hoodie,Clothing,2.0,1299.0,Debit Card,2025,2,February,Wednesday,2598.0,High
+ORD1020,CUST072,2025-01-21,Running Shoes,Footwear,1.0,2999.0,Cash on Delivery,2025,1,January,Tuesday,2999.0,High
+ORD1021,CUST030,2025-01-27,Jeans,Clothing,2.0,1599.0,Debit Card,2025,1,January,Monday,3198.0,High
+ORD1022,CUST039,2025-11-14,USB-C Cable,Electronics,2.0,299.0,Debit Card,2025,11,November,Friday,598.0,Low
+ORD1023,CUST165,2025-11-04,Water Bottle,Home,3.0,399.0,UPI,2025,11,November,Tuesday,1197.0,Medium
+ORD1024,CUST064,2025-10-27,Gel Pen Set,Stationery,1.0,149.0,Credit Card,2025,10,October,Monday,149.0,Low
+ORD1025,CUST063,2025-01-21,Notebook Pack,Stationery,4.0,249.0,Debit Card,2025,1,January,Tuesday,996.0,Medium
+ORD1026,CUST185,2025-01-29,Jeans,Clothing,2.0,1599.0,Credit Card,2025,1,January,Wednesday,3198.0,High
+ORD1027,CUST029,2025-04-13,Desk Lamp,Home,1.0,899.0,Credit Card,2025,4,April,Sunday,899.0,Medium
+ORD1028,CUST184,2025-07-26,Running Shoes,Footwear,3.0,2999.0,Cash on Delivery,2025,7,July,Saturday,8997.0,High
+ORD1029,CUST185,2025-05-02,Hoodie,Clothing,4.0,1299.0,UPI,2025,5,May,Friday,5196.0,High
+ORD1030,CUST120,2025-06-27,Hoodie,Clothing,2.0,1299.0,Debit Card,2025,6,June,Friday,2598.0,High
+ORD1031,CUST034,2025-03-05,Headphones,Electronics,4.0,1999.0,Debit Card,2025,3,March,Wednesday,7996.0,High
+ORD1032,CUST032,2025-09-24,Bluetooth Speaker,Electronics,2.0,2499.0,Debit Card,2025,9,September,Wednesday,4998.0,High
+ORD1033,CUST057,2025-04-25,Running Shoes,Footwear,2.0,2999.0,UPI,2025,4,April,Friday,5998.0,High
+ORD1034,CUST116,2025-01-25,Water Bottle,Home,5.0,399.0,Cash on Delivery,2025,1,January,Saturday,1995.0,Medium
+ORD1035,CUST031,2025-09-29,Wireless Mouse,Electronics,2.0,799.0,Cash on Delivery,2025,9,September,Monday,1598.0,Medium
+ORD1036,CUST092,2025-11-26,Water Bottle,Home,2.0,399.0,Debit Card,2025,11,November,Wednesday,798.0,Medium
+ORD1037,CUST024,2025-01-06,Desk Lamp,Home,1.0,899.0,Debit Card,2025,1,January,Monday,899.0,Medium
+ORD1038,CUST109,2025-06-09,Headphones,Electronics,3.0,1999.0,Debit Card,2025,6,June,Monday,5997.0,High
+ORD1039,CUST005,2025-10-29,Sandals,Footwear,2.0,699.0,UPI,2025,10,October,Wednesday,1398.0,Medium
+ORD1040,CUST142,2025-09-15,USB-C Cable,Electronics,1.0,299.0,Debit Card,2025,9,September,Monday,299.0,Low
+ORD1041,CUST012,2025-11-09,Gel Pen Set,Stationery,1.0,149.0,UPI,2025,11,November,Sunday,149.0,Low
+ORD1042,CUST039,2025-06-01,Notebook Pack,Stationery,1.0,249.0,UPI,2025,6,June,Sunday,249.0,Low
+ORD1043,CUST035,2025-05-16,T-Shirt,Clothing,2.0,499.0,Debit Card,2025,5,May,Friday,998.0,Medium
+ORD1044,CUST167,2025-09-16,Wireless Mouse,Electronics,2.0,799.0,Debit Card,2025,9,September,Tuesday,1598.0,Medium
+ORD1045,CUST011,2025-02-26,Coffee Mug,Home,1.0,249.0,Debit Card,2025,2,February,Wednesday,249.0,Low
+ORD1046,CUST086,2025-03-29,Hoodie,Clothing,1.0,1299.0,Credit Card,2025,3,March,Saturday,1299.0,Medium
+ORD1047,CUST119,2025-08-08,Water Bottle,Home,1.0,399.0,Credit Card,2025,8,August,Friday,399.0,Low
+ORD1048,CUST104,2025-09-01,Notebook Pack,Stationery,3.0,249.0,UPI,2025,9,September,Monday,747.0,Low
+ORD1049,CUST137,2025-02-13,Gel Pen Set,Stationery,3.0,149.0,Debit Card,2025,2,February,Thursday,447.0,Low
+ORD1050,CUST161,2025-07-05,Gel Pen Set,Stationery,3.0,149.0,Credit Card,2025,7,July,Saturday,447.0,Low
+ORD1051,CUST079,2025-05-14,USB-C Cable,Electronics,1.0,299.0,UPI,2025,5,May,Wednesday,299.0,Low
+ORD1052,CUST166,2025-07-03,Jeans,Clothing,4.0,1599.0,UPI,2025,7,July,Thursday,6396.0,High
+ORD1053,CUST064,2025-12-16,Hoodie,Clothing,2.0,1299.0,Credit Card,2025,12,December,Tuesday,2598.0,High
+ORD1054,CUST197,2025-01-28,Hoodie,Clothing,1.0,1299.0,UPI,2025,1,January,Tuesday,1299.0,Medium
+ORD1055,CUST101,2025-12-30,Wireless Mouse,Electronics,1.0,799.0,Cash on Delivery,2025,12,December,Tuesday,799.0,Medium
+ORD1056,CUST148,2025-06-14,Running Shoes,Footwear,2.0,2999.0,UPI,2025,6,June,Saturday,5998.0,High
+ORD1057,CUST176,2025-10-09,USB-C Cable,Electronics,1.0,299.0,UPI,2025,10,October,Thursday,299.0,Low
+ORD1058,CUST159,2025-06-04,Gel Pen Set,Stationery,2.0,149.0,Credit Card,2025,6,June,Wednesday,298.0,Low
+ORD1059,CUST171,2025-04-24,Notebook Pack,Stationery,2.0,249.0,Cash on Delivery,2025,4,April,Thursday,498.0,Low
+ORD1060,CUST108,2025-10-09,Water Bottle,Home,1.0,399.0,Debit Card,2025,10,October,Thursday,399.0,Low
+ORD1061,CUST009,2025-09-08,Gel Pen Set,Stationery,1.0,149.0,Cash on Delivery,2025,9,September,Monday,149.0,Low
+ORD1062,CUST099,2025-02-22,Jeans,Clothing,5.0,1599.0,UPI,2025,2,February,Saturday,7995.0,High
+ORD1063,CUST037,2025-09-15,Coffee Mug,Home,2.0,249.0,Credit Card,2025,9,September,Monday,498.0,Low
+ORD1064,CUST178,2025-10-02,Jeans,Clothing,1.0,1599.0,Credit Card,2025,10,October,Thursday,1599.0,Medium
+ORD1065,CUST048,2025-05-22,T-Shirt,Clothing,2.0,499.0,UPI,2025,5,May,Thursday,998.0,Medium
+ORD1066,CUST046,2025-12-04,Water Bottle,Home,2.0,399.0,UPI,2025,12,December,Thursday,798.0,Medium
+ORD1067,CUST050,2025-08-22,Jeans,Clothing,2.0,1599.0,Credit Card,2025,8,August,Friday,3198.0,High
+ORD1068,CUST129,2025-05-02,Bluetooth Speaker,Electronics,2.0,2499.0,UPI,2025,5,May,Friday,4998.0,High
+ORD1069,CUST115,2025-01-04,Hoodie,Clothing,1.0,1299.0,Cash on Delivery,2025,1,January,Saturday,1299.0,Medium
+ORD1070,CUST190,2025-09-04,Desk Lamp,Home,1.0,899.0,Debit Card,2025,9,September,Thursday,899.0,Medium
+ORD1071,CUST084,2025-03-18,USB-C Cable,Electronics,2.0,299.0,Debit Card,2025,3,March,Tuesday,598.0,Low
+ORD1072,CUST057,2025-10-04,Hoodie,Clothing,1.0,1299.0,Credit Card,2025,10,October,Saturday,1299.0,Medium
+ORD1073,CUST010,2025-07-11,Bluetooth Speaker,Electronics,2.0,2499.0,UPI,2025,7,July,Friday,4998.0,High
+ORD1074,CUST002,2025-06-20,Notebook Pack,Stationery,3.0,249.0,Debit Card,2025,6,June,Friday,747.0,Low
+ORD1075,CUST075,2025-03-01,Hoodie,Clothing,1.0,1299.0,Cash on Delivery,2025,3,March,Saturday,1299.0,Medium
+ORD1076,CUST186,2025-09-17,T-Shirt,Clothing,2.0,499.0,Debit Card,2025,9,September,Wednesday,998.0,Medium
+ORD1077,CUST105,2025-03-02,Headphones,Electronics,1.0,1999.0,UPI,2025,3,March,Sunday,1999.0,Medium
+ORD1078,CUST179,2025-06-02,Running Shoes,Footwear,4.0,2999.0,Credit Card,2025,6,June,Monday,11996.0,High
+ORD1079,CUST021,2025-11-02,Notebook Pack,Stationery,1.0,249.0,Credit Card,2025,11,November,Sunday,249.0,Low
+ORD1080,CUST019,2025-12-02,Coffee Mug,Home,2.0,249.0,UPI,2025,12,December,Tuesday,498.0,Low
+ORD1081,CUST167,2025-12-28,Hoodie,Clothing,2.0,1299.0,Debit Card,2025,12,December,Sunday,2598.0,High
+ORD1082,CUST022,2025-12-16,USB-C Cable,Electronics,2.0,299.0,UPI,2025,12,December,Tuesday,598.0,Low
+ORD1083,CUST011,2025-07-22,Desk Lamp,Home,2.0,899.0,Cash on Delivery,2025,7,July,Tuesday,1798.0,Medium
+ORD1084,CUST081,2025-03-15,Sandals,Footwear,3.0,699.0,Cash on Delivery,2025,3,March,Saturday,2097.0,Medium
+ORD1085,CUST185,2025-11-03,Notebook Pack,Stationery,2.0,249.0,Cash on Delivery,2025,11,November,Monday,498.0,Low
+ORD1086,CUST138,2025-10-20,Bluetooth Speaker,Electronics,3.0,2499.0,Credit Card,2025,10,October,Monday,7497.0,High
+ORD1087,CUST020,2025-12-28,T-Shirt,Clothing,5.0,499.0,UPI,2025,12,December,Sunday,2495.0,High
+ORD1088,CUST168,2025-08-26,Gel Pen Set,Stationery,1.0,149.0,Cash on Delivery,2025,8,August,Tuesday,149.0,Low
+ORD1089,CUST169,2025-02-21,Desk Lamp,Home,2.0,899.0,Debit Card,2025,2,February,Friday,1798.0,Medium
+ORD1090,CUST161,2025-07-03,Hoodie,Clothing,1.0,1299.0,Credit Card,2025,7,July,Thursday,1299.0,Medium
+ORD1091,CUST181,2025-06-13,Desk Lamp,Home,3.0,899.0,UPI,2025,6,June,Friday,2697.0,High
+ORD1092,CUST048,2025-11-04,Desk Lamp,Home,2.0,899.0,Debit Card,2025,11,November,Tuesday,1798.0,Medium
+ORD1093,CUST196,2025-05-24,Jeans,Clothing,1.0,1599.0,UPI,2025,5,May,Saturday,1599.0,Medium
+ORD1094,CUST065,2025-04-30,Water Bottle,Home,1.0,399.0,Cash on Delivery,2025,4,April,Wednesday,399.0,Low
+ORD1095,CUST161,2025-01-30,T-Shirt,Clothing,4.0,499.0,UPI,2025,1,January,Thursday,1996.0,Medium
+ORD1096,CUST116,2025-11-01,Headphones,Electronics,1.0,1999.0,Debit Card,2025,11,November,Saturday,1999.0,Medium
+ORD1097,CUST156,2025-10-03,Notebook Pack,Stationery,2.0,249.0,Debit Card,2025,10,October,Friday,498.0,Low
+ORD1098,CUST126,2025-01-16,Sandals,Footwear,1.0,699.0,Debit Card,2025,1,January,Thursday,699.0,Low
+ORD1099,CUST129,2025-06-08,Bluetooth Speaker,Electronics,28.0,2499.0,Credit Card,2025,6,June,Sunday,69972.0,High
+ORD1100,CUST124,2025-06-25,Desk Lamp,Home,1.0,899.0,UPI,2025,6,June,Wednesday,899.0,Medium
+ORD1101,CUST156,2025-06-21,USB-C Cable,Electronics,1.0,299.0,UPI,2025,6,June,Saturday,299.0,Low
+ORD1102,CUST148,2025-12-02,Desk Lamp,Home,4.0,899.0,Credit Card,2025,12,December,Tuesday,3596.0,High
+ORD1103,CUST027,2025-02-24,Wireless Mouse,Electronics,2.0,799.0,Debit Card,2025,2,February,Monday,1598.0,Medium
+ORD1104,CUST166,2025-04-22,Desk Lamp,Home,1.0,899.0,Cash on Delivery,2025,4,April,Tuesday,899.0,Medium
+ORD1105,CUST108,2025-03-08,Desk Lamp,Home,2.0,899.0,Credit Card,2025,3,March,Saturday,1798.0,Medium
+ORD1106,CUST065,2025-03-31,Gel Pen Set,Stationery,3.0,149.0,UPI,2025,3,March,Monday,447.0,Low
+ORD1107,CUST103,2025-11-28,Notebook Pack,Stationery,4.0,249.0,Debit Card,2025,11,November,Friday,996.0,Medium
+ORD1108,CUST194,2025-12-10,Hoodie,Clothing,1.0,1299.0,UPI,2025,12,December,Wednesday,1299.0,Medium
+ORD1109,CUST172,2025-01-17,Notebook Pack,Stationery,2.0,249.0,Credit Card,2025,1,January,Friday,498.0,Low
+ORD1110,CUST167,2025-08-19,Headphones,Electronics,3.0,1999.0,UPI,2025,8,August,Tuesday,5997.0,High
+ORD1111,CUST093,2025-03-26,Gel Pen Set,Stationery,3.0,149.0,Debit Card,2025,3,March,Wednesday,447.0,Low
+ORD1112,CUST157,2025-03-12,Running Shoes,Footwear,3.0,2999.0,UPI,2025,3,March,Wednesday,8997.0,High
+ORD1113,CUST078,2025-04-17,Hoodie,Clothing,2.0,1299.0,Credit Card,2025,4,April,Thursday,2598.0,High
+ORD1114,CUST138,2025-03-12,Running Shoes,Footwear,1.0,2999.0,Debit Card,2025,3,March,Wednesday,2999.0,High
+ORD1115,CUST128,2025-06-28,Running Shoes,Footwear,4.0,2999.0,UPI,2025,6,June,Saturday,11996.0,High
+ORD1116,CUST050,2025-12-30,Wireless Mouse,Electronics,4.0,799.0,Credit Card,2025,12,December,Tuesday,3196.0,High
+ORD1117,CUST054,2025-08-03,Bluetooth Speaker,Electronics,3.0,2499.0,Credit Card,2025,8,August,Sunday,7497.0,High
+ORD1118,CUST013,2025-09-21,Headphones,Electronics,1.0,1999.0,Credit Card,2025,9,September,Sunday,1999.0,Medium
+ORD1119,CUST028,2025-06-30,Bluetooth Speaker,Electronics,1.0,2499.0,Debit Card,2025,6,June,Monday,2499.0,High
+ORD1120,CUST087,2025-01-06,Hoodie,Clothing,3.0,1299.0,Credit Card,2025,1,January,Monday,3897.0,High
+ORD1121,CUST096,2025-01-31,Notebook Pack,Stationery,1.0,249.0,Cash on Delivery,2025,1,January,Friday,249.0,Low
+ORD1122,CUST034,2025-04-09,Notebook Pack,Stationery,5.0,249.0,Debit Card,2025,4,April,Wednesday,1245.0,Medium
+ORD1123,CUST084,2025-03-30,Hoodie,Clothing,1.0,1299.0,UPI,2025,3,March,Sunday,1299.0,Medium
+ORD1124,CUST121,2025-11-03,Desk Lamp,Home,3.0,899.0,Cash on Delivery,2025,11,November,Monday,2697.0,High
+ORD1125,CUST047,2025-11-04,Running Shoes,Footwear,4.0,2999.0,Credit Card,2025,11,November,Tuesday,11996.0,High
+ORD1126,CUST068,2025-11-08,Bluetooth Speaker,Electronics,1.0,2499.0,UPI,2025,11,November,Saturday,2499.0,High
+ORD1127,CUST074,2025-08-21,Gel Pen Set,Stationery,1.0,149.0,Cash on Delivery,2025,8,August,Thursday,149.0,Low
+ORD1128,CUST102,2025-07-23,Sandals,Footwear,2.0,699.0,UPI,2025,7,July,Wednesday,1398.0,Medium
+ORD1129,CUST074,2025-08-25,Sandals,Footwear,2.0,699.0,Debit Card,2025,8,August,Monday,1398.0,Medium
+ORD1130,CUST148,2025-05-29,Running Shoes,Footwear,1.0,2999.0,Debit Card,2025,5,May,Thursday,2999.0,High
+ORD1131,CUST066,2025-09-02,Running Shoes,Footwear,2.0,2999.0,Credit Card,2025,9,September,Tuesday,5998.0,High
+ORD1132,CUST087,2025-10-17,Bluetooth Speaker,Electronics,4.0,2499.0,UPI,2025,10,October,Friday,9996.0,High
+ORD1133,CUST076,2025-10-06,Running Shoes,Footwear,2.0,2999.0,Cash on Delivery,2025,10,October,Monday,5998.0,High
+ORD1134,CUST037,2025-08-13,Desk Lamp,Home,1.0,899.0,Cash on Delivery,2025,8,August,Wednesday,899.0,Medium
+ORD1135,CUST138,2025-01-22,T-Shirt,Clothing,1.0,499.0,Credit Card,2025,1,January,Wednesday,499.0,Low
+ORD1136,CUST048,2025-09-22,Sandals,Footwear,1.0,699.0,UPI,2025,9,September,Monday,699.0,Low
+ORD1137,CUST060,2025-05-14,Wireless Mouse,Electronics,1.0,799.0,Debit Card,2025,5,May,Wednesday,799.0,Medium
+ORD1138,CUST159,2025-09-29,T-Shirt,Clothing,1.0,499.0,Cash on Delivery,2025,9,September,Monday,499.0,Low
+ORD1139,CUST190,2025-07-16,Hoodie,Clothing,2.0,1299.0,Credit Card,2025,7,July,Wednesday,2598.0,High
+ORD1140,CUST135,2025-11-18,Coffee Mug,Home,1.0,249.0,Cash on Delivery,2025,11,November,Tuesday,249.0,Low
+ORD1141,CUST184,2025-05-04,Headphones,Electronics,2.0,1999.0,UPI,2025,5,May,Sunday,3998.0,High
+ORD1142,CUST171,2025-12-06,Headphones,Electronics,1.0,1999.0,Credit Card,2025,12,December,Saturday,1999.0,Medium
+ORD1143,CUST097,2025-11-05,Jeans,Clothing,1.0,1599.0,Credit Card,2025,11,November,Wednesday,1599.0,Medium
+ORD1144,CUST155,2025-05-01,Coffee Mug,Home,3.0,249.0,UPI,2025,5,May,Thursday,747.0,Low
+ORD1145,CUST066,2025-06-26,Desk Lamp,Home,4.0,899.0,Credit Card,2025,6,June,Thursday,3596.0,High
+ORD1146,CUST093,2025-07-13,Wireless Mouse,Electronics,1.0,799.0,UPI,2025,7,July,Sunday,799.0,Medium
+ORD1147,CUST108,2025-10-08,Headphones,Electronics,1.0,1999.0,Cash on Delivery,2025,10,October,Wednesday,1999.0,Medium
+ORD1148,CUST193,2025-09-09,Desk Lamp,Home,1.0,899.0,UPI,2025,9,September,Tuesday,899.0,Medium
+ORD1149,CUST170,2025-11-07,Wireless Mouse,Electronics,2.0,799.0,Debit Card,2025,11,November,Friday,1598.0,Medium
+ORD1150,CUST098,2025-05-16,Desk Lamp,Home,2.0,899.0,Debit Card,2025,5,May,Friday,1798.0,Medium
+ORD1151,CUST131,2025-07-04,Headphones,Electronics,1.0,1999.0,Credit Card,2025,7,July,Friday,1999.0,Medium
+ORD1152,CUST041,2025-06-07,Water Bottle,Home,1.0,399.0,Cash on Delivery,2025,6,June,Saturday,399.0,Low
+ORD1153,CUST161,2025-11-28,T-Shirt,Clothing,19.0,499.0,Debit Card,2025,11,November,Friday,9481.0,High
+ORD1154,CUST111,2025-04-22,Hoodie,Clothing,5.0,1299.0,Credit Card,2025,4,April,Tuesday,6495.0,High
+ORD1155,CUST107,2025-08-03,Notebook Pack,Stationery,2.0,249.0,Credit Card,2025,8,August,Sunday,498.0,Low
+ORD1156,CUST154,2025-02-13,Bluetooth Speaker,Electronics,2.0,2499.0,Cash on Delivery,2025,2,February,Thursday,4998.0,High
+ORD1157,CUST127,2025-11-07,Running Shoes,Footwear,1.0,2999.0,Credit Card,2025,11,November,Friday,2999.0,High
+ORD1158,CUST015,2025-05-21,Running Shoes,Footwear,1.0,2999.0,Cash on Delivery,2025,5,May,Wednesday,2999.0,High
+ORD1159,CUST058,2025-05-05,Gel Pen Set,Stationery,1.0,149.0,UPI,2025,5,May,Monday,149.0,Low
+ORD1160,CUST036,2025-08-01,Coffee Mug,Home,3.0,249.0,UPI,2025,8,August,Friday,747.0,Low
+ORD1161,CUST147,2025-07-02,Notebook Pack,Stationery,4.0,249.0,Cash on Delivery,2025,7,July,Wednesday,996.0,Medium
+ORD1162,CUST008,2025-11-06,Jeans,Clothing,4.0,1599.0,UPI,2025,11,November,Thursday,6396.0,High
+ORD1163,CUST041,2025-07-13,Jeans,Clothing,5.0,1599.0,Cash on Delivery,2025,7,July,Sunday,7995.0,High
+ORD1164,CUST120,2025-07-08,Jeans,Clothing,5.0,1599.0,Credit Card,2025,7,July,Tuesday,7995.0,High
+ORD1165,CUST139,2025-02-08,Desk Lamp,Home,5.0,899.0,UPI,2025,2,February,Saturday,4495.0,High
+ORD1166,CUST101,2025-01-09,T-Shirt,Clothing,1.0,499.0,UPI,2025,1,January,Thursday,499.0,Low
+ORD1167,CUST173,2025-05-26,USB-C Cable,Electronics,1.0,299.0,UPI,2025,5,May,Monday,299.0,Low
+ORD1168,CUST184,2025-12-31,T-Shirt,Clothing,1.0,499.0,Cash on Delivery,2025,12,December,Wednesday,499.0,Low
+ORD1169,CUST027,2025-12-01,Wireless Mouse,Electronics,2.0,799.0,Cash on Delivery,2025,12,December,Monday,1598.0,Medium
+ORD1170,CUST191,2025-08-18,Bluetooth Speaker,Electronics,1.0,2499.0,UPI,2025,8,August,Monday,2499.0,High
+ORD1171,CUST123,2025-08-19,Bluetooth Speaker,Electronics,3.0,2499.0,Debit Card,2025,8,August,Tuesday,7497.0,High
+ORD1172,CUST128,2025-05-23,Gel Pen Set,Stationery,2.0,149.0,Debit Card,2025,5,May,Friday,298.0,Low
+ORD1173,CUST020,2025-03-06,Gel Pen Set,Stationery,2.0,149.0,Debit Card,2025,3,March,Thursday,298.0,Low
+ORD1174,CUST125,2025-01-04,Notebook Pack,Stationery,1.0,249.0,Debit Card,2025,1,January,Saturday,249.0,Low
+ORD1175,CUST146,2025-05-04,Hoodie,Clothing,1.0,1299.0,Debit Card,2025,5,May,Sunday,1299.0,Medium
+ORD1176,CUST117,2025-04-26,Gel Pen Set,Stationery,1.0,149.0,Credit Card,2025,4,April,Saturday,149.0,Low
+ORD1177,CUST017,2025-03-11,USB-C Cable,Electronics,4.0,299.0,Credit Card,2025,3,March,Tuesday,1196.0,Medium
+ORD1178,CUST105,2025-04-05,Water Bottle,Home,2.0,399.0,UPI,2025,4,April,Saturday,798.0,Medium
+ORD1179,CUST188,2025-01-10,Running Shoes,Footwear,3.0,2999.0,Debit Card,2025,1,January,Friday,8997.0,High
+ORD1180,CUST145,2025-08-10,Coffee Mug,Home,1.0,249.0,Cash on Delivery,2025,8,August,Sunday,249.0,Low
+ORD1181,CUST028,2025-12-05,USB-C Cable,Electronics,1.0,299.0,UPI,2025,12,December,Friday,299.0,Low
+ORD1182,CUST192,2025-09-10,Hoodie,Clothing,1.0,1299.0,Credit Card,2025,9,September,Wednesday,1299.0,Medium
+ORD1183,CUST192,2025-06-13,Notebook Pack,Stationery,3.0,249.0,Credit Card,2025,6,June,Friday,747.0,Low
+ORD1184,CUST034,2025-06-03,Hoodie,Clothing,3.0,1299.0,Credit Card,2025,6,June,Tuesday,3897.0,High
+ORD1185,CUST161,2025-04-23,Hoodie,Clothing,1.0,1299.0,Cash on Delivery,2025,4,April,Wednesday,1299.0,Medium
+ORD1186,CUST082,2025-02-21,USB-C Cable,Electronics,4.0,299.0,Credit Card,2025,2,February,Friday,1196.0,Medium
+ORD1187,CUST119,2025-08-07,Jeans,Clothing,2.0,1599.0,UPI,2025,8,August,Thursday,3198.0,High
+ORD1188,CUST090,2025-07-26,Headphones,Electronics,4.0,1999.0,Cash on Delivery,2025,7,July,Saturday,7996.0,High
+ORD1189,CUST157,2025-01-03,T-Shirt,Clothing,1.0,499.0,Cash on Delivery,2025,1,January,Friday,499.0,Low
+ORD1190,CUST200,2025-06-01,Notebook Pack,Stationery,1.0,249.0,Credit Card,2025,6,June,Sunday,249.0,Low
+ORD1191,CUST160,2025-04-12,Sandals,Footwear,3.0,699.0,Credit Card,2025,4,April,Saturday,2097.0,Medium
+ORD1192,CUST187,2025-03-04,Sandals,Footwear,1.0,699.0,Credit Card,2025,3,March,Tuesday,699.0,Low
+ORD1193,CUST190,2025-09-14,Jeans,Clothing,1.0,1599.0,Credit Card,2025,9,September,Sunday,1599.0,Medium
+ORD1194,CUST019,2025-07-11,Coffee Mug,Home,1.0,249.0,Credit Card,2025,7,July,Friday,249.0,Low
+ORD1195,CUST051,2025-08-20,Bluetooth Speaker,Electronics,1.0,2499.0,UPI,2025,8,August,Wednesday,2499.0,High
+ORD1196,CUST145,2025-09-18,T-Shirt,Clothing,3.0,499.0,Cash on Delivery,2025,9,September,Thursday,1497.0,Medium
+ORD1197,CUST119,2025-12-25,Bluetooth Speaker,Electronics,4.0,2499.0,UPI,2025,12,December,Thursday,9996.0,High
+ORD1198,CUST011,2025-10-21,T-Shirt,Clothing,4.0,499.0,UPI,2025,10,October,Tuesday,1996.0,Medium
+ORD1199,CUST020,2025-08-15,Coffee Mug,Home,1.0,249.0,Credit Card,2025,8,August,Friday,249.0,Low
+ORD1200,CUST105,2025-11-17,Jeans,Clothing,2.0,1599.0,UPI,2025,11,November,Monday,3198.0,High
+ORD1201,CUST124,2025-06-24,Water Bottle,Home,1.0,399.0,UPI,2025,6,June,Tuesday,399.0,Low
+ORD1202,CUST034,2025-12-26,Hoodie,Clothing,1.0,1299.0,Cash on Delivery,2025,12,December,Friday,1299.0,Medium
+ORD1203,CUST035,2025-10-05,Notebook Pack,Stationery,1.0,249.0,Cash on Delivery,2025,10,October,Sunday,249.0,Low
+ORD1204,CUST026,2025-08-26,Hoodie,Clothing,4.0,1299.0,Debit Card,2025,8,August,Tuesday,5196.0,High
+ORD1205,CUST113,2025-11-26,Headphones,Electronics,4.0,1999.0,Credit Card,2025,11,November,Wednesday,7996.0,High
+ORD1206,CUST002,2025-07-08,Gel Pen Set,Stationery,3.0,149.0,Credit Card,2025,7,July,Tuesday,447.0,Low
+ORD1207,CUST115,2025-09-21,Coffee Mug,Home,2.0,249.0,Debit Card,2025,9,September,Sunday,498.0,Low
+ORD1208,CUST096,2025-04-14,Headphones,Electronics,2.0,1999.0,Cash on Delivery,2025,4,April,Monday,3998.0,High
+ORD1209,CUST094,2025-12-18,Gel Pen Set,Stationery,2.0,149.0,Debit Card,2025,12,December,Thursday,298.0,Low
+ORD1210,CUST136,2025-08-16,Headphones,Electronics,2.0,1999.0,UPI,2025,8,August,Saturday,3998.0,High
+ORD1211,CUST105,2025-10-13,Gel Pen Set,Stationery,1.0,149.0,UPI,2025,10,October,Monday,149.0,Low
+ORD1212,CUST146,2025-06-18,Desk Lamp,Home,1.0,899.0,Credit Card,2025,6,June,Wednesday,899.0,Medium
+ORD1213,CUST153,2025-11-13,Hoodie,Clothing,1.0,1299.0,Debit Card,2025,11,November,Thursday,1299.0,Medium
+ORD1214,CUST185,2025-01-28,Gel Pen Set,Stationery,5.0,149.0,UPI,2025,1,January,Tuesday,745.0,Low
+ORD1215,CUST160,2025-02-11,Headphones,Electronics,2.0,1999.0,UPI,2025,2,February,Tuesday,3998.0,High
+ORD1216,CUST104,2025-07-05,Bluetooth Speaker,Electronics,5.0,2499.0,Debit Card,2025,7,July,Saturday,12495.0,High
+ORD1217,CUST099,2025-09-25,Bluetooth Speaker,Electronics,1.0,2499.0,Credit Card,2025,9,September,Thursday,2499.0,High
+ORD1218,CUST048,2025-10-23,Hoodie,Clothing,2.0,1299.0,UPI,2025,10,October,Thursday,2598.0,High
+ORD1219,CUST120,2025-06-10,Water Bottle,Home,1.0,399.0,Credit Card,2025,6,June,Tuesday,399.0,Low
+ORD1220,CUST028,2025-08-26,Bluetooth Speaker,Electronics,1.0,2499.0,Cash on Delivery,2025,8,August,Tuesday,2499.0,High
+ORD1221,CUST187,2025-07-21,Hoodie,Clothing,1.0,1299.0,Credit Card,2025,7,July,Monday,1299.0,Medium
+ORD1222,CUST170,2025-12-17,Notebook Pack,Stationery,1.0,249.0,Credit Card,2025,12,December,Wednesday,249.0,Low
+ORD1223,CUST024,2025-08-27,USB-C Cable,Electronics,4.0,299.0,Debit Card,2025,8,August,Wednesday,1196.0,Medium
+ORD1224,CUST158,2025-06-02,Gel Pen Set,Stationery,1.0,149.0,UPI,2025,6,June,Monday,149.0,Low
+ORD1225,CUST024,2025-12-20,T-Shirt,Clothing,2.0,499.0,UPI,2025,12,December,Saturday,998.0,Medium
+ORD1226,CUST145,2025-02-09,Desk Lamp,Home,2.0,899.0,Debit Card,2025,2,February,Sunday,1798.0,Medium
+ORD1227,CUST018,2025-12-26,Sandals,Footwear,1.0,699.0,Cash on Delivery,2025,12,December,Friday,699.0,Low
+ORD1228,CUST098,2025-02-26,Running Shoes,Footwear,2.0,2999.0,Debit Card,2025,2,February,Wednesday,5998.0,High
+ORD1229,CUST132,2025-04-16,USB-C Cable,Electronics,1.0,299.0,Debit Card,2025,4,April,Wednesday,299.0,Low
+ORD1230,CUST146,2025-10-27,Hoodie,Clothing,5.0,1299.0,Debit Card,2025,10,October,Monday,6495.0,High
+ORD1231,CUST084,2025-09-25,Desk Lamp,Home,3.0,899.0,Credit Card,2025,9,September,Thursday,2697.0,High
+ORD1232,CUST185,2025-12-21,Wireless Mouse,Electronics,3.0,799.0,UPI,2025,12,December,Sunday,2397.0,Medium
+ORD1233,CUST155,2025-10-01,Gel Pen Set,Stationery,2.0,149.0,Credit Card,2025,10,October,Wednesday,298.0,Low
+ORD1234,CUST042,2025-08-21,Hoodie,Clothing,1.0,1299.0,UPI,2025,8,August,Thursday,1299.0,Medium
+ORD1235,CUST135,2025-05-07,Gel Pen Set,Stationery,4.0,149.0,Credit Card,2025,5,May,Wednesday,596.0,Low
+ORD1236,CUST147,2025-01-02,Notebook Pack,Stationery,1.0,249.0,Cash on Delivery,2025,1,January,Thursday,249.0,Low
+ORD1237,CUST067,2025-02-15,Hoodie,Clothing,1.0,1299.0,Debit Card,2025,2,February,Saturday,1299.0,Medium
+ORD1238,CUST148,2025-04-19,T-Shirt,Clothing,1.0,499.0,Cash on Delivery,2025,4,April,Saturday,499.0,Low
+ORD1239,CUST180,2025-01-15,Sandals,Footwear,3.0,699.0,Debit Card,2025,1,January,Wednesday,2097.0,Medium
+ORD1240,CUST164,2025-07-05,Bluetooth Speaker,Electronics,2.0,2499.0,Credit Card,2025,7,July,Saturday,4998.0,High
+ORD1241,CUST153,2025-10-11,Sandals,Footwear,3.0,699.0,UPI,2025,10,October,Saturday,2097.0,Medium
+ORD1242,CUST127,2025-12-18,Bluetooth Speaker,Electronics,3.0,2499.0,UPI,2025,12,December,Thursday,7497.0,High
+ORD1243,CUST055,2025-06-28,Notebook Pack,Stationery,1.0,249.0,UPI,2025,6,June,Saturday,249.0,Low
+ORD1244,CUST160,2025-11-16,Sandals,Footwear,4.0,699.0,Debit Card,2025,11,November,Sunday,2796.0,High
+ORD1245,CUST073,2025-12-26,Bluetooth Speaker,Electronics,1.0,2499.0,UPI,2025,12,December,Friday,2499.0,High
+ORD1246,CUST107,2025-11-10,Gel Pen Set,Stationery,2.0,149.0,Cash on Delivery,2025,11,November,Monday,298.0,Low
+ORD1247,CUST063,2025-06-19,Jeans,Clothing,1.0,1599.0,UPI,2025,6,June,Thursday,1599.0,Medium
+ORD1248,CUST063,2025-04-29,Desk Lamp,Home,5.0,899.0,Debit Card,2025,4,April,Tuesday,4495.0,High
+ORD1249,CUST032,2025-12-23,Wireless Mouse,Electronics,1.0,799.0,UPI,2025,12,December,Tuesday,799.0,Medium
+ORD1250,CUST193,2025-03-30,USB-C Cable,Electronics,1.0,299.0,UPI,2025,3,March,Sunday,299.0,Low
+ORD1251,CUST030,2025-05-31,Hoodie,Clothing,2.0,1299.0,Cash on Delivery,2025,5,May,Saturday,2598.0,High
+ORD1252,CUST018,2025-01-28,USB-C Cable,Electronics,1.0,299.0,Debit Card,2025,1,January,Tuesday,299.0,Low
+ORD1253,CUST188,2025-10-17,T-Shirt,Clothing,1.0,499.0,Debit Card,2025,10,October,Friday,499.0,Low
+ORD1254,CUST112,2025-08-26,Notebook Pack,Stationery,2.0,249.0,UPI,2025,8,August,Tuesday,498.0,Low
+ORD1255,CUST088,2025-01-31,USB-C Cable,Electronics,1.0,299.0,UPI,2025,1,January,Friday,299.0,Low
+ORD1256,CUST148,2025-03-23,Notebook Pack,Stationery,4.0,249.0,UPI,2025,3,March,Sunday,996.0,Medium
+ORD1257,CUST077,2025-07-22,Bluetooth Speaker,Electronics,1.0,2499.0,Debit Card,2025,7,July,Tuesday,2499.0,High
+ORD1258,CUST026,2025-07-17,USB-C Cable,Electronics,3.0,299.0,Credit Card,2025,7,July,Thursday,897.0,Medium
+ORD1259,CUST146,2025-10-20,Sandals,Footwear,2.0,699.0,UPI,2025,10,October,Monday,1398.0,Medium
+ORD1260,CUST036,2025-04-08,Desk Lamp,Home,2.0,899.0,Credit Card,2025,4,April,Tuesday,1798.0,Medium
+ORD1261,CUST111,2025-12-04,USB-C Cable,Electronics,2.0,299.0,Credit Card,2025,12,December,Thursday,598.0,Low
+ORD1262,CUST190,2025-06-12,T-Shirt,Clothing,2.0,499.0,UPI,2025,6,June,Thursday,998.0,Medium
+ORD1263,CUST188,2025-10-28,Water Bottle,Home,5.0,399.0,UPI,2025,10,October,Tuesday,1995.0,Medium
+ORD1264,CUST073,2025-03-29,Coffee Mug,Home,1.0,249.0,Cash on Delivery,2025,3,March,Saturday,249.0,Low
+ORD1265,CUST157,2025-01-14,Sandals,Footwear,1.0,699.0,Credit Card,2025,1,January,Tuesday,699.0,Low
+ORD1266,CUST123,2025-01-21,Hoodie,Clothing,2.0,1299.0,Credit Card,2025,1,January,Tuesday,2598.0,High
+ORD1267,CUST096,2025-05-17,T-Shirt,Clothing,3.0,499.0,Cash on Delivery,2025,5,May,Saturday,1497.0,Medium
+ORD1268,CUST028,2025-12-14,Sandals,Footwear,1.0,699.0,Credit Card,2025,12,December,Sunday,699.0,Low
+ORD1269,CUST076,2025-01-18,Sandals,Footwear,1.0,699.0,Credit Card,2025,1,January,Saturday,699.0,Low
+ORD1270,CUST131,2025-05-15,T-Shirt,Clothing,4.0,499.0,Credit Card,2025,5,May,Thursday,1996.0,Medium
+ORD1271,CUST198,2025-02-09,Wireless Mouse,Electronics,3.0,799.0,UPI,2025,2,February,Sunday,2397.0,Medium
+ORD1272,CUST001,2025-12-07,USB-C Cable,Electronics,5.0,299.0,Cash on Delivery,2025,12,December,Sunday,1495.0,Medium
+ORD1273,CUST144,2025-09-04,Coffee Mug,Home,2.0,249.0,UPI,2025,9,September,Thursday,498.0,Low
+ORD1274,CUST170,2025-10-06,Jeans,Clothing,2.0,1599.0,UPI,2025,10,October,Monday,3198.0,High
+ORD1275,CUST191,2025-09-18,Hoodie,Clothing,1.0,1299.0,Credit Card,2025,9,September,Thursday,1299.0,Medium
+ORD1276,CUST085,2025-08-28,Hoodie,Clothing,4.0,1299.0,Debit Card,2025,8,August,Thursday,5196.0,High
+ORD1277,CUST024,2025-10-10,Gel Pen Set,Stationery,1.0,149.0,Debit Card,2025,10,October,Friday,149.0,Low
+ORD1278,CUST055,2025-01-03,Wireless Mouse,Electronics,3.0,799.0,Credit Card,2025,1,January,Friday,2397.0,Medium
+ORD1279,CUST171,2025-11-12,Bluetooth Speaker,Electronics,1.0,2499.0,Credit Card,2025,11,November,Wednesday,2499.0,High
+ORD1280,CUST176,2025-09-28,Headphones,Electronics,2.0,1999.0,Debit Card,2025,9,September,Sunday,3998.0,High
+ORD1281,CUST128,2025-09-27,Hoodie,Clothing,3.0,1299.0,Credit Card,2025,9,September,Saturday,3897.0,High
+ORD1282,CUST025,2025-05-24,Notebook Pack,Stationery,2.0,249.0,UPI,2025,5,May,Saturday,498.0,Low
+ORD1283,CUST025,2025-10-20,Hoodie,Clothing,4.0,1299.0,UPI,2025,10,October,Monday,5196.0,High
+ORD1284,CUST096,2025-05-20,Hoodie,Clothing,1.0,1299.0,Credit Card,2025,5,May,Tuesday,1299.0,Medium
+ORD1285,CUST118,2025-01-18,Coffee Mug,Home,2.0,249.0,Debit Card,2025,1,January,Saturday,498.0,Low
+ORD1286,CUST007,2025-11-28,USB-C Cable,Electronics,1.0,299.0,UPI,2025,11,November,Friday,299.0,Low
+ORD1287,CUST138,2025-03-27,Sandals,Footwear,1.0,699.0,UPI,2025,3,March,Thursday,699.0,Low
+ORD1288,CUST109,2025-02-07,Running Shoes,Footwear,1.0,2999.0,UPI,2025,2,February,Friday,2999.0,High
+ORD1289,CUST003,2025-08-15,Hoodie,Clothing,1.0,1299.0,Debit Card,2025,8,August,Friday,1299.0,Medium
+ORD1290,CUST020,2025-03-27,Desk Lamp,Home,1.0,899.0,UPI,2025,3,March,Thursday,899.0,Medium
+ORD1291,CUST091,2025-11-10,Headphones,Electronics,2.0,1999.0,Credit Card,2025,11,November,Monday,3998.0,High
+ORD1292,CUST145,2025-06-11,Coffee Mug,Home,2.0,249.0,Debit Card,2025,6,June,Wednesday,498.0,Low
+ORD1293,CUST166,2025-01-02,T-Shirt,Clothing,2.0,499.0,Credit Card,2025,1,January,Thursday,998.0,Medium
+ORD1294,CUST087,2025-12-14,Running Shoes,Footwear,1.0,2999.0,Debit Card,2025,12,December,Sunday,2999.0,High
+ORD1295,CUST060,2025-07-07,Running Shoes,Footwear,1.0,2999.0,Debit Card,2025,7,July,Monday,2999.0,High
+ORD1296,CUST194,2025-04-06,Desk Lamp,Home,1.0,899.0,Credit Card,2025,4,April,Sunday,899.0,Medium
+ORD1297,CUST092,2025-09-05,Hoodie,Clothing,3.0,1299.0,UPI,2025,9,September,Friday,3897.0,High
+ORD1298,CUST064,2025-07-13,Headphones,Electronics,4.0,1999.0,Debit Card,2025,7,July,Sunday,7996.0,High
+ORD1299,CUST089,2025-01-11,Wireless Mouse,Electronics,1.0,799.0,Credit Card,2025,1,January,Saturday,799.0,Medium
+ORD1300,CUST003,2025-10-05,Jeans,Clothing,2.0,1599.0,Credit Card,2025,10,October,Sunday,3198.0,High
+ORD1301,CUST061,2025-05-27,Desk Lamp,Home,1.0,899.0,Debit Card,2025,5,May,Tuesday,899.0,Medium
+ORD1302,CUST104,2025-09-13,Wireless Mouse,Electronics,1.0,799.0,Debit Card,2025,9,September,Saturday,799.0,Medium
+ORD1303,CUST184,2025-11-23,Water Bottle,Home,1.0,399.0,Debit Card,2025,11,November,Sunday,399.0,Low
+ORD1304,CUST148,2025-08-11,Running Shoes,Footwear,1.0,2999.0,Credit Card,2025,8,August,Monday,2999.0,High
+ORD1305,CUST157,2025-09-03,Bluetooth Speaker,Electronics,2.0,2499.0,UPI,2025,9,September,Wednesday,4998.0,High
+ORD1306,CUST109,2025-04-03,T-Shirt,Clothing,4.0,499.0,Cash on Delivery,2025,4,April,Thursday,1996.0,Medium
+ORD1307,CUST023,2025-03-28,Running Shoes,Footwear,1.0,2999.0,Debit Card,2025,3,March,Friday,2999.0,High
+ORD1308,CUST079,2025-06-01,T-Shirt,Clothing,2.0,499.0,UPI,2025,6,June,Sunday,998.0,Medium
+ORD1309,CUST200,2025-11-08,Bluetooth Speaker,Electronics,3.0,2499.0,Cash on Delivery,2025,11,November,Saturday,7497.0,High
+ORD1310,CUST009,2025-07-11,Notebook Pack,Stationery,5.0,249.0,Cash on Delivery,2025,7,July,Friday,1245.0,Medium
+ORD1311,CUST176,2025-05-08,Notebook Pack,Stationery,2.0,249.0,UPI,2025,5,May,Thursday,498.0,Low
+ORD1312,CUST137,2025-10-12,Bluetooth Speaker,Electronics,1.0,2499.0,Cash on Delivery,2025,10,October,Sunday,2499.0,High
+ORD1313,CUST057,2025-11-08,Headphones,Electronics,2.0,1999.0,Cash on Delivery,2025,11,November,Saturday,3998.0,High
+ORD1314,CUST156,2025-11-26,Headphones,Electronics,1.0,1999.0,UPI,2025,11,November,Wednesday,1999.0,Medium
+ORD1315,CUST168,2025-04-20,Notebook Pack,Stationery,5.0,249.0,Debit Card,2025,4,April,Sunday,1245.0,Medium
+ORD1316,CUST009,2025-09-17,Gel Pen Set,Stationery,29.0,149.0,Credit Card,2025,9,September,Wednesday,4321.0,High
+ORD1317,CUST022,2025-08-04,Gel Pen Set,Stationery,2.0,149.0,Credit Card,2025,8,August,Monday,298.0,Low
+ORD1318,CUST134,2025-06-13,Coffee Mug,Home,1.0,249.0,Debit Card,2025,6,June,Friday,249.0,Low
+ORD1319,CUST200,2025-05-25,Gel Pen Set,Stationery,1.0,149.0,Debit Card,2025,5,May,Sunday,149.0,Low
+ORD1320,CUST005,2025-02-11,T-Shirt,Clothing,4.0,499.0,Debit Card,2025,2,February,Tuesday,1996.0,Medium
+ORD1321,CUST134,2025-04-11,Bluetooth Speaker,Electronics,2.0,2499.0,UPI,2025,4,April,Friday,4998.0,High
+ORD1322,CUST028,2025-07-20,Sandals,Footwear,1.0,699.0,UPI,2025,7,July,Sunday,699.0,Low
+ORD1323,CUST131,2025-11-20,Water Bottle,Home,4.0,399.0,UPI,2025,11,November,Thursday,1596.0,Medium
+ORD1324,CUST125,2025-11-13,Coffee Mug,Home,4.0,249.0,Credit Card,2025,11,November,Thursday,996.0,Medium
+ORD1325,CUST019,2025-03-10,Headphones,Electronics,1.0,1999.0,Credit Card,2025,3,March,Monday,1999.0,Medium
+ORD1326,CUST137,2025-09-05,Headphones,Electronics,2.0,1999.0,UPI,2025,9,September,Friday,3998.0,High
+ORD1327,CUST180,2025-01-31,Wireless Mouse,Electronics,2.0,799.0,UPI,2025,1,January,Friday,1598.0,Medium
+ORD1328,CUST173,2025-09-04,Bluetooth Speaker,Electronics,2.0,2499.0,Cash on Delivery,2025,9,September,Thursday,4998.0,High
+ORD1329,CUST006,2025-05-05,Running Shoes,Footwear,1.0,2999.0,Cash on Delivery,2025,5,May,Monday,2999.0,High
+ORD1330,CUST050,2025-06-14,Running Shoes,Footwear,1.0,2999.0,Cash on Delivery,2025,6,June,Saturday,2999.0,High
+ORD1331,CUST049,2025-09-19,Jeans,Clothing,4.0,1599.0,Debit Card,2025,9,September,Friday,6396.0,High
+ORD1332,CUST091,2025-06-05,T-Shirt,Clothing,4.0,499.0,Debit Card,2025,6,June,Thursday,1996.0,Medium
+ORD1333,CUST029,2025-10-22,Desk Lamp,Home,3.0,899.0,Credit Card,2025,10,October,Wednesday,2697.0,High
+ORD1334,CUST171,2025-07-14,Hoodie,Clothing,5.0,1299.0,UPI,2025,7,July,Monday,6495.0,High
+ORD1335,CUST156,2025-12-31,Desk Lamp,Home,3.0,899.0,Cash on Delivery,2025,12,December,Wednesday,2697.0,High
+ORD1336,CUST162,2025-08-21,Coffee Mug,Home,3.0,249.0,Debit Card,2025,8,August,Thursday,747.0,Low
+ORD1337,CUST040,2025-04-19,T-Shirt,Clothing,3.0,499.0,UPI,2025,4,April,Saturday,1497.0,Medium
+ORD1338,CUST003,2025-10-10,USB-C Cable,Electronics,2.0,299.0,Credit Card,2025,10,October,Friday,598.0,Low
+ORD1339,CUST183,2025-05-29,Coffee Mug,Home,2.0,249.0,Credit Card,2025,5,May,Thursday,498.0,Low
+ORD1340,CUST058,2025-07-14,Sandals,Footwear,1.0,699.0,Credit Card,2025,7,July,Monday,699.0,Low
+ORD1341,CUST132,2025-02-19,T-Shirt,Clothing,2.0,499.0,Credit Card,2025,2,February,Wednesday,998.0,Medium
+ORD1342,CUST182,2025-02-13,Sandals,Footwear,1.0,699.0,Cash on Delivery,2025,2,February,Thursday,699.0,Low
+ORD1343,CUST008,2025-07-29,Running Shoes,Footwear,1.0,2999.0,Debit Card,2025,7,July,Tuesday,2999.0,High
+ORD1344,CUST002,2025-03-10,Water Bottle,Home,2.0,399.0,UPI,2025,3,March,Monday,798.0,Medium
+ORD1345,CUST002,2025-12-31,Headphones,Electronics,1.0,1999.0,UPI,2025,12,December,Wednesday,1999.0,Medium
+ORD1346,CUST032,2025-11-09,Coffee Mug,Home,1.0,249.0,Credit Card,2025,11,November,Sunday,249.0,Low
+ORD1347,CUST011,2025-09-13,Coffee Mug,Home,3.0,249.0,Credit Card,2025,9,September,Saturday,747.0,Low
+ORD1348,CUST164,2025-09-26,USB-C Cable,Electronics,4.0,299.0,UPI,2025,9,September,Friday,1196.0,Medium
+ORD1349,CUST122,2025-08-06,USB-C Cable,Electronics,1.0,299.0,Credit Card,2025,8,August,Wednesday,299.0,Low
+ORD1350,CUST197,2025-01-23,Running Shoes,Footwear,1.0,2999.0,Cash on Delivery,2025,1,January,Thursday,2999.0,High
+ORD1351,CUST161,2025-05-24,Wireless Mouse,Electronics,1.0,799.0,Credit Card,2025,5,May,Saturday,799.0,Medium
+ORD1352,CUST193,2025-06-30,T-Shirt,Clothing,3.0,499.0,UPI,2025,6,June,Monday,1497.0,Medium
+ORD1353,CUST048,2025-12-01,Hoodie,Clothing,3.0,1299.0,UPI,2025,12,December,Monday,3897.0,High
+ORD1354,CUST058,2025-03-22,Coffee Mug,Home,1.0,249.0,Credit Card,2025,3,March,Saturday,249.0,Low
+ORD1355,CUST170,2025-07-01,Coffee Mug,Home,3.0,249.0,Credit Card,2025,7,July,Tuesday,747.0,Low
+ORD1356,CUST049,2025-05-06,USB-C Cable,Electronics,1.0,299.0,Cash on Delivery,2025,5,May,Tuesday,299.0,Low
+ORD1357,CUST012,2025-02-19,Water Bottle,Home,1.0,399.0,Credit Card,2025,2,February,Wednesday,399.0,Low
+ORD1358,CUST134,2025-02-07,Bluetooth Speaker,Electronics,5.0,2499.0,Debit Card,2025,2,February,Friday,12495.0,High
+ORD1359,CUST161,2025-05-14,Gel Pen Set,Stationery,1.0,149.0,Debit Card,2025,5,May,Wednesday,149.0,Low
+ORD1360,CUST194,2025-01-31,Desk Lamp,Home,1.0,899.0,Credit Card,2025,1,January,Friday,899.0,Medium
+ORD1361,CUST186,2025-01-25,Water Bottle,Home,1.0,399.0,UPI,2025,1,January,Saturday,399.0,Low
+ORD1362,CUST025,2025-05-09,Headphones,Electronics,2.0,1999.0,UPI,2025,5,May,Friday,3998.0,High
+ORD1363,CUST155,2025-03-15,Water Bottle,Home,4.0,399.0,Debit Card,2025,3,March,Saturday,1596.0,Medium
+ORD1364,CUST170,2025-07-22,Bluetooth Speaker,Electronics,5.0,2499.0,UPI,2025,7,July,Tuesday,12495.0,High
+ORD1365,CUST140,2025-01-07,Running Shoes,Footwear,1.0,2999.0,Credit Card,2025,1,January,Tuesday,2999.0,High
+ORD1366,CUST164,2025-04-21,Hoodie,Clothing,1.0,1299.0,Credit Card,2025,4,April,Monday,1299.0,Medium
+ORD1367,CUST168,2025-06-15,T-Shirt,Clothing,3.0,499.0,UPI,2025,6,June,Sunday,1497.0,Medium
+ORD1368,CUST090,2025-12-18,Wireless Mouse,Electronics,1.0,799.0,Cash on Delivery,2025,12,December,Thursday,799.0,Medium
+ORD1369,CUST009,2025-08-20,Gel Pen Set,Stationery,4.0,149.0,Credit Card,2025,8,August,Wednesday,596.0,Low
+ORD1370,CUST092,2025-11-18,T-Shirt,Clothing,2.0,499.0,Credit Card,2025,11,November,Tuesday,998.0,Medium
+ORD1371,CUST041,2025-05-06,Notebook Pack,Stationery,1.0,249.0,UPI,2025,5,May,Tuesday,249.0,Low
+ORD1372,CUST023,2025-06-14,Jeans,Clothing,3.0,1599.0,UPI,2025,6,June,Saturday,4797.0,High
+ORD1373,CUST025,2025-06-03,Jeans,Clothing,1.0,1599.0,Credit Card,2025,6,June,Tuesday,1599.0,Medium
+ORD1374,CUST140,2025-11-20,Water Bottle,Home,1.0,399.0,Debit Card,2025,11,November,Thursday,399.0,Low
+ORD1375,CUST101,2025-12-17,Bluetooth Speaker,Electronics,2.0,2499.0,UPI,2025,12,December,Wednesday,4998.0,High
+ORD1376,CUST108,2025-12-18,Gel Pen Set,Stationery,2.0,149.0,Debit Card,2025,12,December,Thursday,298.0,Low
+ORD1377,CUST150,2025-10-02,Gel Pen Set,Stationery,2.0,149.0,Credit Card,2025,10,October,Thursday,298.0,Low
+ORD1378,CUST110,2025-07-03,Jeans,Clothing,2.0,1599.0,Credit Card,2025,7,July,Thursday,3198.0,High
+ORD1379,CUST127,2025-07-17,Headphones,Electronics,5.0,1999.0,Debit Card,2025,7,July,Thursday,9995.0,High
+ORD1380,CUST018,2025-12-24,Wireless Mouse,Electronics,5.0,799.0,Debit Card,2025,12,December,Wednesday,3995.0,High
+ORD1381,CUST171,2025-04-14,Coffee Mug,Home,2.0,249.0,Cash on Delivery,2025,4,April,Monday,498.0,Low
+ORD1382,CUST090,2025-05-07,Coffee Mug,Home,1.0,249.0,UPI,2025,5,May,Wednesday,249.0,Low
+ORD1383,CUST032,2025-11-24,Headphones,Electronics,3.0,1999.0,UPI,2025,11,November,Monday,5997.0,High
+ORD1384,CUST163,2025-05-22,Wireless Mouse,Electronics,5.0,799.0,Cash on Delivery,2025,5,May,Thursday,3995.0,High
+ORD1385,CUST147,2025-03-27,Bluetooth Speaker,Electronics,1.0,2499.0,Debit Card,2025,3,March,Thursday,2499.0,High
+ORD1386,CUST011,2025-07-24,Wireless Mouse,Electronics,2.0,799.0,Debit Card,2025,7,July,Thursday,1598.0,Medium
+ORD1387,CUST039,2025-04-29,Desk Lamp,Home,1.0,899.0,Cash on Delivery,2025,4,April,Tuesday,899.0,Medium
+ORD1388,CUST004,2025-11-22,Water Bottle,Home,1.0,399.0,Credit Card,2025,11,November,Saturday,399.0,Low
+ORD1389,CUST055,2025-11-28,USB-C Cable,Electronics,2.0,299.0,UPI,2025,11,November,Friday,598.0,Low
+ORD1390,CUST020,2025-04-22,Gel Pen Set,Stationery,1.0,149.0,UPI,2025,4,April,Tuesday,149.0,Low
+ORD1391,CUST142,2025-07-13,USB-C Cable,Electronics,3.0,299.0,Credit Card,2025,7,July,Sunday,897.0,Medium
+ORD1392,CUST105,2025-12-26,Jeans,Clothing,3.0,1599.0,Debit Card,2025,12,December,Friday,4797.0,High
+ORD1393,CUST197,2025-09-28,Sandals,Footwear,3.0,699.0,Credit Card,2025,9,September,Sunday,2097.0,Medium
+ORD1394,CUST150,2025-03-20,Gel Pen Set,Stationery,1.0,149.0,Credit Card,2025,3,March,Thursday,149.0,Low
+ORD1395,CUST123,2025-08-04,Water Bottle,Home,1.0,399.0,Debit Card,2025,8,August,Monday,399.0,Low
+ORD1396,CUST102,2025-08-15,Wireless Mouse,Electronics,3.0,799.0,Credit Card,2025,8,August,Friday,2397.0,Medium
+ORD1397,CUST011,2025-08-27,USB-C Cable,Electronics,3.0,299.0,UPI,2025,8,August,Wednesday,897.0,Medium
+ORD1398,CUST015,2025-01-10,Headphones,Electronics,2.0,1999.0,Cash on Delivery,2025,1,January,Friday,3998.0,High
+ORD1399,CUST124,2025-04-20,T-Shirt,Clothing,4.0,499.0,UPI,2025,4,April,Sunday,1996.0,Medium
+ORD1400,CUST001,2025-11-08,Coffee Mug,Home,1.0,249.0,Credit Card,2025,11,November,Saturday,249.0,Low
+ORD1401,CUST009,2025-03-30,Gel Pen Set,Stationery,4.0,149.0,Credit Card,2025,3,March,Sunday,596.0,Low
+ORD1402,CUST044,2025-04-20,T-Shirt,Clothing,1.0,499.0,Credit Card,2025,4,April,Sunday,499.0,Low
+ORD1403,CUST177,2025-04-28,Coffee Mug,Home,1.0,249.0,Credit Card,2025,4,April,Monday,249.0,Low
+ORD1404,CUST092,2025-03-06,Hoodie,Clothing,2.0,1299.0,Cash on Delivery,2025,3,March,Thursday,2598.0,High
+ORD1405,CUST142,2025-02-26,Running Shoes,Footwear,25.0,2999.0,Debit Card,2025,2,February,Wednesday,74975.0,High
+ORD1406,CUST083,2025-05-07,Hoodie,Clothing,1.0,1299.0,Credit Card,2025,5,May,Wednesday,1299.0,Medium
+ORD1407,CUST035,2025-11-16,USB-C Cable,Electronics,1.0,299.0,UPI,2025,11,November,Sunday,299.0,Low
+ORD1408,CUST075,2025-01-01,Coffee Mug,Home,1.0,249.0,Debit Card,2025,1,January,Wednesday,249.0,Low
+ORD1409,CUST019,2025-04-14,Wireless Mouse,Electronics,3.0,799.0,Credit Card,2025,4,April,Monday,2397.0,Medium
+ORD1410,CUST155,2025-01-23,USB-C Cable,Electronics,1.0,299.0,Credit Card,2025,1,January,Thursday,299.0,Low
+ORD1411,CUST037,2025-07-24,Headphones,Electronics,2.0,1999.0,UPI,2025,7,July,Thursday,3998.0,High
+ORD1412,CUST076,2025-04-02,Headphones,Electronics,3.0,1999.0,UPI,2025,4,April,Wednesday,5997.0,High
+ORD1413,CUST197,2025-10-17,Bluetooth Speaker,Electronics,1.0,2499.0,Credit Card,2025,10,October,Friday,2499.0,High
+ORD1414,CUST119,2025-08-02,Wireless Mouse,Electronics,1.0,799.0,Cash on Delivery,2025,8,August,Saturday,799.0,Medium
+ORD1415,CUST092,2025-10-14,Notebook Pack,Stationery,4.0,249.0,Cash on Delivery,2025,10,October,Tuesday,996.0,Medium
+ORD1416,CUST109,2025-08-20,Coffee Mug,Home,3.0,249.0,UPI,2025,8,August,Wednesday,747.0,Low
+ORD1417,CUST157,2025-06-10,Bluetooth Speaker,Electronics,28.0,2499.0,Credit Card,2025,6,June,Tuesday,69972.0,High
+ORD1418,CUST051,2025-11-11,T-Shirt,Clothing,3.0,499.0,Credit Card,2025,11,November,Tuesday,1497.0,Medium
+ORD1419,CUST128,2025-06-23,Running Shoes,Footwear,1.0,2999.0,Cash on Delivery,2025,6,June,Monday,2999.0,High
+ORD1420,CUST175,2025-12-13,Water Bottle,Home,1.0,399.0,Debit Card,2025,12,December,Saturday,399.0,Low
+ORD1421,CUST115,2025-12-30,Notebook Pack,Stationery,3.0,249.0,UPI,2025,12,December,Tuesday,747.0,Low
+ORD1422,CUST090,2025-08-03,Gel Pen Set,Stationery,1.0,149.0,UPI,2025,8,August,Sunday,149.0,Low
+ORD1423,CUST030,2025-09-04,Sandals,Footwear,3.0,699.0,Credit Card,2025,9,September,Thursday,2097.0,Medium
+ORD1424,CUST050,2025-04-04,Jeans,Clothing,2.0,1599.0,UPI,2025,4,April,Friday,3198.0,High
+ORD1425,CUST190,2025-10-25,USB-C Cable,Electronics,3.0,299.0,Cash on Delivery,2025,10,October,Saturday,897.0,Medium
+ORD1426,CUST109,2025-09-03,Water Bottle,Home,2.0,399.0,UPI,2025,9,September,Wednesday,798.0,Medium
+ORD1427,CUST061,2025-11-26,Desk Lamp,Home,1.0,899.0,Debit Card,2025,11,November,Wednesday,899.0,Medium
+ORD1428,CUST084,2025-04-08,Wireless Mouse,Electronics,1.0,799.0,Cash on Delivery,2025,4,April,Tuesday,799.0,Medium
+ORD1429,CUST116,2025-10-15,Gel Pen Set,Stationery,1.0,149.0,UPI,2025,10,October,Wednesday,149.0,Low
+ORD1430,CUST108,2025-06-21,Bluetooth Speaker,Electronics,3.0,2499.0,UPI,2025,6,June,Saturday,7497.0,High
+ORD1431,CUST140,2025-03-09,Gel Pen Set,Stationery,1.0,149.0,UPI,2025,3,March,Sunday,149.0,Low
+ORD1432,CUST052,2025-03-04,Desk Lamp,Home,1.0,899.0,UPI,2025,3,March,Tuesday,899.0,Medium
+ORD1433,CUST130,2025-07-25,Bluetooth Speaker,Electronics,1.0,2499.0,Credit Card,2025,7,July,Friday,2499.0,High
+ORD1434,CUST089,2025-04-27,Hoodie,Clothing,1.0,1299.0,Credit Card,2025,4,April,Sunday,1299.0,Medium
+ORD1435,CUST189,2025-02-07,Bluetooth Speaker,Electronics,3.0,2499.0,Credit Card,2025,2,February,Friday,7497.0,High
+ORD1436,CUST032,2025-06-05,Running Shoes,Footwear,1.0,2999.0,UPI,2025,6,June,Thursday,2999.0,High
+ORD1437,CUST030,2025-08-27,Water Bottle,Home,5.0,399.0,UPI,2025,8,August,Wednesday,1995.0,Medium
+ORD1438,CUST093,2025-04-27,Bluetooth Speaker,Electronics,1.0,2499.0,UPI,2025,4,April,Sunday,2499.0,High
+ORD1439,CUST102,2025-12-15,Jeans,Clothing,2.0,1599.0,Debit Card,2025,12,December,Monday,3198.0,High
+ORD1440,CUST139,2025-10-12,Coffee Mug,Home,1.0,249.0,UPI,2025,10,October,Sunday,249.0,Low
+ORD1441,CUST081,2025-07-07,T-Shirt,Clothing,1.0,499.0,Cash on Delivery,2025,7,July,Monday,499.0,Low
+ORD1442,CUST183,2025-12-08,Bluetooth Speaker,Electronics,27.0,2499.0,Credit Card,2025,12,December,Monday,67473.0,High
+ORD1443,CUST095,2025-06-08,Hoodie,Clothing,5.0,1299.0,UPI,2025,6,June,Sunday,6495.0,High
+ORD1444,CUST026,2025-02-20,Running Shoes,Footwear,4.0,2999.0,UPI,2025,2,February,Thursday,11996.0,High
+ORD1445,CUST024,2025-01-14,Notebook Pack,Stationery,1.0,249.0,UPI,2025,1,January,Tuesday,249.0,Low
+ORD1446,CUST195,2025-12-09,T-Shirt,Clothing,1.0,499.0,Credit Card,2025,12,December,Tuesday,499.0,Low
+ORD1447,CUST027,2025-12-17,Coffee Mug,Home,2.0,249.0,UPI,2025,12,December,Wednesday,498.0,Low
+ORD1448,CUST190,2025-09-27,Running Shoes,Footwear,1.0,2999.0,Cash on Delivery,2025,9,September,Saturday,2999.0,High
+ORD1449,CUST056,2025-02-07,T-Shirt,Clothing,3.0,499.0,UPI,2025,2,February,Friday,1497.0,Medium
+ORD1450,CUST019,2025-04-18,Coffee Mug,Home,2.0,249.0,Cash on Delivery,2025,4,April,Friday,498.0,Low
+ORD1451,CUST061,2025-01-15,Water Bottle,Home,2.0,399.0,Cash on Delivery,2025,1,January,Wednesday,798.0,Medium
+ORD1452,CUST123,2025-01-19,Hoodie,Clothing,3.0,1299.0,Debit Card,2025,1,January,Sunday,3897.0,High
+ORD1453,CUST086,2025-03-31,Wireless Mouse,Electronics,3.0,799.0,UPI,2025,3,March,Monday,2397.0,Medium
+ORD1454,CUST158,2025-07-28,Sandals,Footwear,1.0,699.0,Debit Card,2025,7,July,Monday,699.0,Low
+ORD1455,CUST123,2025-01-24,Running Shoes,Footwear,1.0,2999.0,Cash on Delivery,2025,1,January,Friday,2999.0,High
+ORD1456,CUST081,2025-12-26,USB-C Cable,Electronics,2.0,299.0,Credit Card,2025,12,December,Friday,598.0,Low
+ORD1457,CUST127,2025-06-16,Sandals,Footwear,2.0,699.0,Debit Card,2025,6,June,Monday,1398.0,Medium
+ORD1458,CUST195,2025-04-07,Desk Lamp,Home,1.0,899.0,Cash on Delivery,2025,4,April,Monday,899.0,Medium
+ORD1459,CUST083,2025-07-08,Bluetooth Speaker,Electronics,1.0,2499.0,Credit Card,2025,7,July,Tuesday,2499.0,High
+ORD1460,CUST031,2025-10-16,Gel Pen Set,Stationery,3.0,149.0,UPI,2025,10,October,Thursday,447.0,Low
+ORD1461,CUST082,2025-04-25,Bluetooth Speaker,Electronics,3.0,2499.0,Debit Card,2025,4,April,Friday,7497.0,High
+ORD1462,CUST169,2025-01-18,Gel Pen Set,Stationery,2.0,149.0,Cash on Delivery,2025,1,January,Saturday,298.0,Low
+ORD1463,CUST044,2025-01-19,Jeans,Clothing,1.0,1599.0,Cash on Delivery,2025,1,January,Sunday,1599.0,Medium
+ORD1464,CUST190,2025-11-07,Wireless Mouse,Electronics,1.0,799.0,Debit Card,2025,11,November,Friday,799.0,Medium
+ORD1465,CUST118,2025-02-10,Coffee Mug,Home,2.0,249.0,UPI,2025,2,February,Monday,498.0,Low
+ORD1466,CUST121,2025-08-20,USB-C Cable,Electronics,1.0,299.0,Debit Card,2025,8,August,Wednesday,299.0,Low
+ORD1467,CUST064,2025-05-21,Sandals,Footwear,2.0,699.0,UPI,2025,5,May,Wednesday,1398.0,Medium
+ORD1468,CUST185,2025-10-11,USB-C Cable,Electronics,2.0,299.0,UPI,2025,10,October,Saturday,598.0,Low
+ORD1469,CUST008,2025-01-23,Coffee Mug,Home,1.0,249.0,UPI,2025,1,January,Thursday,249.0,Low
+ORD1470,CUST060,2025-11-24,Gel Pen Set,Stationery,1.0,149.0,Credit Card,2025,11,November,Monday,149.0,Low
+ORD1471,CUST084,2025-09-12,Desk Lamp,Home,1.0,899.0,Credit Card,2025,9,September,Friday,899.0,Medium
+ORD1472,CUST096,2025-06-13,Hoodie,Clothing,4.0,1299.0,UPI,2025,6,June,Friday,5196.0,High
+ORD1473,CUST095,2025-03-17,Hoodie,Clothing,2.0,1299.0,UPI,2025,3,March,Monday,2598.0,High
+ORD1474,CUST030,2025-12-23,Sandals,Footwear,1.0,699.0,Debit Card,2025,12,December,Tuesday,699.0,Low
+ORD1475,CUST046,2025-04-21,Gel Pen Set,Stationery,4.0,149.0,Credit Card,2025,4,April,Monday,596.0,Low
+ORD1476,CUST020,2025-06-29,Desk Lamp,Home,2.0,899.0,Debit Card,2025,6,June,Sunday,1798.0,Medium
+ORD1477,CUST115,2025-05-24,Wireless Mouse,Electronics,2.0,799.0,Cash on Delivery,2025,5,May,Saturday,1598.0,Medium
+ORD1478,CUST071,2025-03-26,Notebook Pack,Stationery,4.0,249.0,Credit Card,2025,3,March,Wednesday,996.0,Medium
+ORD1479,CUST114,2025-06-02,Bluetooth Speaker,Electronics,1.0,2499.0,Debit Card,2025,6,June,Monday,2499.0,High
+ORD1480,CUST118,2025-02-25,T-Shirt,Clothing,1.0,499.0,Cash on Delivery,2025,2,February,Tuesday,499.0,Low
+ORD1481,CUST141,2025-01-01,Desk Lamp,Home,2.0,899.0,Credit Card,2025,1,January,Wednesday,1798.0,Medium
+ORD1482,CUST110,2025-04-16,Headphones,Electronics,1.0,1999.0,UPI,2025,4,April,Wednesday,1999.0,Medium
+ORD1483,CUST130,2025-02-10,Desk Lamp,Home,2.0,899.0,Credit Card,2025,2,February,Monday,1798.0,Medium
+ORD1484,CUST118,2025-06-01,Hoodie,Clothing,1.0,1299.0,Cash on Delivery,2025,6,June,Sunday,1299.0,Medium
+ORD1485,CUST131,2025-11-11,Headphones,Electronics,1.0,1999.0,UPI,2025,11,November,Tuesday,1999.0,Medium
+ORD1486,CUST124,2025-03-01,T-Shirt,Clothing,1.0,499.0,Cash on Delivery,2025,3,March,Saturday,499.0,Low
+ORD1487,CUST064,2025-01-01,Running Shoes,Footwear,1.0,2999.0,Credit Card,2025,1,January,Wednesday,2999.0,High
+ORD1488,CUST050,2025-02-10,Gel Pen Set,Stationery,1.0,149.0,UPI,2025,2,February,Monday,149.0,Low
+ORD1489,CUST158,2025-07-05,Sandals,Footwear,1.0,699.0,UPI,2025,7,July,Saturday,699.0,Low
+ORD1490,CUST069,2025-04-11,Coffee Mug,Home,2.0,249.0,Credit Card,2025,4,April,Friday,498.0,Low
+ORD1491,CUST110,2025-06-28,Water Bottle,Home,1.0,399.0,Credit Card,2025,6,June,Saturday,399.0,Low
+ORD1492,CUST040,2025-01-11,Gel Pen Set,Stationery,1.0,149.0,Credit Card,2025,1,January,Saturday,149.0,Low
+ORD1493,CUST087,2025-05-02,Sandals,Footwear,1.0,699.0,Cash on Delivery,2025,5,May,Friday,699.0,Low
+ORD1494,CUST106,2025-05-30,T-Shirt,Clothing,1.0,499.0,UPI,2025,5,May,Friday,499.0,Low
+ORD1495,CUST126,2025-06-07,Jeans,Clothing,1.0,1599.0,UPI,2025,6,June,Saturday,1599.0,Medium
+ORD1496,CUST106,2025-07-21,Bluetooth Speaker,Electronics,2.0,2499.0,UPI,2025,7,July,Monday,4998.0,High
+ORD1497,CUST073,2025-10-12,Jeans,Clothing,1.0,1599.0,UPI,2025,10,October,Sunday,1599.0,Medium
+ORD1498,CUST193,2025-06-20,Water Bottle,Home,4.0,399.0,Debit Card,2025,6,June,Friday,1596.0,Medium
+ORD1499,CUST103,2025-11-04,Jeans,Clothing,4.0,1599.0,Debit Card,2025,11,November,Tuesday,6396.0,High
